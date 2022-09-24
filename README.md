@@ -2,8 +2,6 @@
 I am a information system graduate that is always looking for opportunities and collabaration in projects related to technology.
 - 🚀 I’m currently improving my skills with HTML and CSS.
 - 🌱 I’m a procedural programming lover.
-- 🤖 .
-- 🎸 .
 
 <div align="center">
   <a href="https://github.com/marianakaori">
